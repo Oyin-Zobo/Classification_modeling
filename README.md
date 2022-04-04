@@ -20,7 +20,7 @@ The classification model will be evaluated using log loss. The predictions, will
 of readmission.
 
 Approach 
-Built at least 5 different classes of classifiers from the following list: linear discriminant
+- Built at least 5 different classes of classifiers from the following list: linear discriminant
 analysis, logistic regression, penalized logistic regression (e.g., using glmnet), MARS (for classifica-
 tion), decision tree, random forest, bagged trees, boosted trees, SVM, neural nets. Hyper-parameters
 was tuned using a re-sampling method. 
