@@ -33,7 +33,7 @@ Solution
 - Decision tree run on the data with the cross validation.
 - The svm is run on the data and radial kernel is used and the value fo c was optimized in the predictive modelling.
 - Classification Metrics was used analyze the model;
--   roc(model)
+    - roc(model)
     auc(model)
     acc(model)
     precvsrec(model)
